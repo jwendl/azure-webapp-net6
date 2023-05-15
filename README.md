@@ -1,0 +1,2 @@
+# azure-webapp-net6
+ 
